@@ -23,7 +23,10 @@ st.write(
 # --------------------------------------------------
 # 2. Load the trained Machine Learning model
 # --------------------------------------------------
-MODEL_PATH = "/content/it_log_model.joblib"
+MODEL_PATH = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    "it_log_model.joblib"
+)
 
 @st.cache_resource
 def load_model(path):
