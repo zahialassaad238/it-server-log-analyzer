@@ -27,5 +27,5 @@ An intelligent log analysis and system monitoring web application built with **S
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/it-log-analyzer.git](https://github.com/zahialassaad238/it-log-analyzer.git)
+   git clone [https://github.com/zahialassaad238@gmail.com/it-log-analyzer.git](https://github.com/zahialassaad238/it-log-analyzer.git)
    cd it-log-analyzer
